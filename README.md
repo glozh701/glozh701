@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/code-with-peace.gif" width="560" alt="profile gif" />
+  <img src="./assets/code-with-peace.gif" width="404" alt="profile gif" />
 </p>
 
 <p align="center">
