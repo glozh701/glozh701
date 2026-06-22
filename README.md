@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    hello · 你好 · Bonjour
+    hello · 你好 · bonjour
   </samp>
 </p>
 
