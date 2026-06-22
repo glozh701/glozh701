@@ -20,7 +20,7 @@
 
 <p align="center">
   <samp>
-    currently:&nbsp;&nbsp;reading · learning · building · collecting ideas<br/>
+    currently:&nbsp;&nbsp;reading · learning · collecting ideas · building<br/>
     interests:&nbsp;&nbsp;software · large-scale systems · agentic AI · research · musical
   </samp>
 </p>
