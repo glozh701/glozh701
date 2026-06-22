@@ -1,16 +1,36 @@
-## Hi there 👋
+<p align="center">
+  <samp>
+    hello · 你好 · Bonjour
+  </samp>
+</p>
 
-<!--
-**glozh701/glozh701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/code-with-peace.gif" width="560" alt="profile gif" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <samp>
+    <strong>Jingyu (Gloria) Zhang</strong><br/>
+    SWE @ AWS<br/>
+    making small things on the internet
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<p align="center">
+  <samp>
+    currently:&nbsp;&nbsp;learning · building · collecting small ideas<br/>
+    interests:&nbsp;&nbsp;software · large-scale systems · agentic AI · research · musical
+  </samp>
+</p>
+
+<br/>
+
+<p align="center">
+  <samp>
+    find me elsewhere<br/>
+    <a href="https://www.linkedin.com/in/glozh701/">linkedin</a> ·
+    <a href="mailto:gloria0701zhang@gmail.com">email</a>
+  </samp>
+</p>
